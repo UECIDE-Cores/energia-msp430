@@ -1,3 +1,9 @@
+energia-msp430 (1.0.1) uecide; urgency=low
+
+  * Added eZ430-F2013 USB dongle
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Mon, 8 Feb 2016 22:15:53 +0000
+
 energia-msp430 (1.0.0) uecide; urgency=low
 
   * Initial Import

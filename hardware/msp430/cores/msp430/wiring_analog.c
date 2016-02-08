@@ -70,13 +70,9 @@ static int _readResolution = DEFAULT_READ_RESOLUTION;
 
 #if defined(__MSP430_HAS_ADC10__) || defined(__MSP430_HAS_ADC10_B__) || defined(__MSP430_HAS_ADC__)
 uint16_t analog_reference = DEFAULT, analog_period = F_CPU/490, analog_div = ID_0, analog_res=0xFF; // devide clock with 0, 2, 4, 8
-#endif
-
-#if defined(__MSP430_HAS_ADC12_PLUS__) || defined(__MSP430_HAS_ADC12_B__)
+#elif defined(__MSP430_HAS_ADC12_PLUS__) || defined(__MSP430_HAS_ADC12_B__)
 uint16_t analog_reference = DEFAULT, analog_period = F_CPU/490, analog_div = ID_0, analog_res=0xFF; // devide clock with 0, 2, 4, 8
-#endif
-
-#if defined(__MSP430_HAS_ADC10__) || defined(__MSP430_HAS_ADC10_B__) || defined(__MSP430_HAS_ADC12_PLUS__) || defined(__MSP430_HAS_ADC12_B__) || defined(__MSP430_HAS_ADC__)
+#elif defined(__MSP430_HAS_ADC10__) || defined(__MSP430_HAS_ADC10_B__) || defined(__MSP430_HAS_ADC12_PLUS__) || defined(__MSP430_HAS_ADC12_B__) || defined(__MSP430_HAS_ADC__)
 void analogReference(uint16_t mode)
 {
 	// can't actually set the register here because the default setting
@@ -84,6 +80,10 @@ void analogReference(uint16_t mode)
 	// there's something connected to AREF.
 	analog_reference = mode;
 }
+#else
+#define DEFAULT 0
+uint16_t analog_reference = DEFAULT, analog_period = F_CPU/490, analog_div = ID_0, analog_res=0xFF; // devide clock with 0, 2, 4, 8
+
 #endif
 
 

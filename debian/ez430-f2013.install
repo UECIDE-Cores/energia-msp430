@@ -1,2 +1,2 @@
 debian/uecide/ez430-f2013/board.txt boards/Launchpad/ez430-f2013
-hardware/msp430/variants/launchpad/pins_energia.h boards/Launchpad/ez430-f2013
+debian/uecide/ez430-f2013/pins_energia.h boards/Launchpad/ez430-f2013
