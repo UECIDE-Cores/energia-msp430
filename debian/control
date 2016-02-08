@@ -454,5 +454,13 @@ XBSC-Subgroup: MSP430
 Depends: energia-msp430
 Description: LaunchPad with msp430fr6989
 
+Package: ez430-f2013
+Section: boards
+Architecture: all
+XBSC-Group: Launchpad
+XBSC-Subgroup: MSP430
+Depends: energia-msp430
+Description: eZ430-F2013
+
 
 
