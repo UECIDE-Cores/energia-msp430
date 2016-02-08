@@ -1,0 +1,13 @@
+name=launchpad-msp430f5529-16m
+core=energia-msp430
+family=msp430
+group=Launchpad
+
+description=LaunchPad with msp430f5529 (16MHz)
+upload.protocol=tilib
+upload.maximum_size=131072
+build.mcu=msp430f5529
+build.f_cpu=16000000L
+build.core=msp430
+build.variant=launchpad_f5529
+upload.maximum_ram_size=8192

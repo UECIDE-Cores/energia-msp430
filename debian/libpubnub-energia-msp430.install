@@ -1,0 +1,5 @@
+hardware/msp430/libraries/PubNub/LICENSE libraries/Communications/energia-msp430/PubNub
+hardware/msp430/libraries/PubNub/PubNub.cpp libraries/Communications/energia-msp430/PubNub
+hardware/msp430/libraries/PubNub/PubNub.h libraries/Communications/energia-msp430/PubNub
+hardware/msp430/libraries/PubNub/README.md libraries/Communications/energia-msp430/PubNub
+hardware/msp430/libraries/PubNub/examples/ libraries/Communications/energia-msp430/PubNub

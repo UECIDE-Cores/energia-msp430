@@ -1,0 +1,4 @@
+hardware/msp430/libraries/SoftwareSerial/SoftwareSerial.cpp libraries/Communications/energia-msp430/SoftwareSerial
+hardware/msp430/libraries/SoftwareSerial/SoftwareSerial.h libraries/Communications/energia-msp430/SoftwareSerial
+hardware/msp430/libraries/SoftwareSerial/examples/ libraries/Communications/energia-msp430/SoftwareSerial
+hardware/msp430/libraries/SoftwareSerial/keywords.txt libraries/Communications/energia-msp430/SoftwareSerial

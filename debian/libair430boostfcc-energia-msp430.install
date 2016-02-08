@@ -1,0 +1,4 @@
+hardware/msp430/libraries/AIR430BoostUSAFCC/AIR430BoostFCC.h libraries/Communications/AIR430BoostFCC
+hardware/msp430/libraries/AIR430BoostUSAFCC/examples/ libraries/Communications/AIR430BoostFCC
+hardware/msp430/libraries/AIR430BoostUSAFCC/keywords.txt libraries/Communications/AIR430BoostFCC
+hardware/msp430/libraries/AIR430BoostUSAFCC/utility/ libraries/Communications/AIR430BoostFCC

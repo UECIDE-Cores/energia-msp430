@@ -1,0 +1,13 @@
+hardware/msp430/libraries/WiFi/SLFS.cpp libraries/Communications/energia-msp430/WiFi
+hardware/msp430/libraries/WiFi/SLFS.h libraries/Communications/energia-msp430/WiFi
+hardware/msp430/libraries/WiFi/WiFi.cpp libraries/Communications/energia-msp430/WiFi
+hardware/msp430/libraries/WiFi/WiFi.h libraries/Communications/energia-msp430/WiFi
+hardware/msp430/libraries/WiFi/WiFiClient.cpp libraries/Communications/energia-msp430/WiFi
+hardware/msp430/libraries/WiFi/WiFiClient.h libraries/Communications/energia-msp430/WiFi
+hardware/msp430/libraries/WiFi/WiFiServer.cpp libraries/Communications/energia-msp430/WiFi
+hardware/msp430/libraries/WiFi/WiFiServer.h libraries/Communications/energia-msp430/WiFi
+hardware/msp430/libraries/WiFi/WiFiUdp.cpp libraries/Communications/energia-msp430/WiFi
+hardware/msp430/libraries/WiFi/WiFiUdp.h libraries/Communications/energia-msp430/WiFi
+hardware/msp430/libraries/WiFi/examples/ libraries/Communications/energia-msp430/WiFi
+hardware/msp430/libraries/WiFi/keywords.txt libraries/Communications/energia-msp430/WiFi
+hardware/msp430/libraries/WiFi/utility/ libraries/Communications/energia-msp430/WiFi

@@ -1,0 +1,4 @@
+hardware/msp430/libraries/Servo/Servo.cpp libraries/Motor/energia-msp430/Servo
+hardware/msp430/libraries/Servo/Servo.h libraries/Motor/energia-msp430/Servo
+hardware/msp430/libraries/Servo/examples/ libraries/Motor/energia-msp430/Servo
+hardware/msp430/libraries/Servo/keywords.txt libraries/Motor/energia-msp430/Servo

@@ -1,0 +1,4 @@
+hardware/msp430/libraries/AIR430BoostEuropeETSI/AIR430BoostETSI.h libraries/Communications/AIR430BoostETSI
+hardware/msp430/libraries/AIR430BoostEuropeETSI/examples/ libraries/Communications/AIR430BoostETSI
+hardware/msp430/libraries/AIR430BoostEuropeETSI/keywords.txt libraries/Communications/AIR430BoostETSI
+hardware/msp430/libraries/AIR430BoostEuropeETSI/utility/ libraries/Communications/AIR430BoostETSI

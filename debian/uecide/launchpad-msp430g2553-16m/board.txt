@@ -1,0 +1,13 @@
+name=launchpad-msp430g2553-16m
+core=energia-msp430
+family=msp430
+group=Launchpad
+
+description=LaunchPad with msp430g2553 (16MHz)
+upload.protocol=rf2500
+upload.maximum_size=16384
+build.mcu=msp430g2553
+build.f_cpu=16000000L
+build.core=msp430
+build.variant=launchpad
+upload.maximum_ram_size=512

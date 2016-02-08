@@ -1,0 +1,6 @@
+hardware/msp430/libraries/aJson/Examples/Json_Serial/ libraries/Communications/energia-msp430/aJSON/examples
+hardware/msp430/libraries/aJson/Examples/MultiLevelParsing/ libraries/Communications/energia-msp430/aJSON/examples
+hardware/msp430/libraries/aJson/aJSON.cpp libraries/Communications/energia-msp430/aJSON
+hardware/msp430/libraries/aJson/aJSON.h libraries/Communications/energia-msp430/aJSON
+hardware/msp430/libraries/aJson/keywords.txt libraries/Communications/energia-msp430/aJSON
+hardware/msp430/libraries/aJson/utility/ libraries/Communications/energia-msp430/aJSON

@@ -1,0 +1,13 @@
+name=launchpad-msp430fr4133-8m
+core=energia-msp430
+family=msp430
+group=Launchpad
+
+description=LaunchPad with msp430fr4133
+upload.protocol=tilib
+upload.maximum_size=15360
+build.mcu=msp430fr4133
+build.f_cpu=8000000L
+build.core=msp430
+build.variant=launchpad_fr4133
+upload.maximum_ram_size=2048

@@ -1,0 +1,2 @@
+debian/uecide/launchpad-msp430f5529-25m/board.txt boards/Launchpad/launchpad-msp430f5529-25m
+hardware/msp430/variants/launchpad_f5529/pins_energia.h boards/Launchpad/launchpad-msp430f5529-25m

@@ -1,0 +1,4 @@
+hardware/msp430/libraries/LCD_Launchpad/LCD_Launchpad.cpp libraries/Display/energia-msp430/LCD_Launchpad
+hardware/msp430/libraries/LCD_Launchpad/LCD_Launchpad.h libraries/Display/energia-msp430/LCD_Launchpad
+hardware/msp430/libraries/LCD_Launchpad/examples/ libraries/Display/energia-msp430/LCD_Launchpad
+hardware/msp430/libraries/LCD_Launchpad/keywords.txt libraries/Display/energia-msp430/LCD_Launchpad

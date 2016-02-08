@@ -1,0 +1,4 @@
+hardware/msp430/libraries/MspFlash/MspFlash.cpp libraries/Storage/energia-msp430/MspFlash
+hardware/msp430/libraries/MspFlash/MspFlash.h libraries/Storage/energia-msp430/MspFlash
+hardware/msp430/libraries/MspFlash/examples/ libraries/Storage/energia-msp430/MspFlash
+hardware/msp430/libraries/MspFlash/keywords.txt libraries/Storage/energia-msp430/MspFlash

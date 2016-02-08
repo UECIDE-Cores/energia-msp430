@@ -1,0 +1,4 @@
+hardware/msp430/libraries/DriverLib/driverlib.h libraries/Misc/energia-msp430/driverlib
+hardware/msp430/libraries/DriverLib/examples/ libraries/Misc/energia-msp430/driverlib
+hardware/msp430/libraries/DriverLib/keywords.txt libraries/Misc/energia-msp430/driverlib
+hardware/msp430/libraries/DriverLib/utility/ libraries/Misc/energia-msp430/driverlib

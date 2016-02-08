@@ -1,0 +1,4 @@
+hardware/msp430/libraries/Stepper/Stepper.cpp libraries/Motor/energia-msp430/Stepper
+hardware/msp430/libraries/Stepper/Stepper.h libraries/Motor/energia-msp430/Stepper
+hardware/msp430/libraries/Stepper/examples/ libraries/Motor/energia-msp430/Stepper
+hardware/msp430/libraries/Stepper/keywords.txt libraries/Motor/energia-msp430/Stepper

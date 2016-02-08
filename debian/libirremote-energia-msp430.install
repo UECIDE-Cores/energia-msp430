@@ -1,0 +1,6 @@
+hardware/msp430/libraries/IRremote/IRremote.cpp libraries/Communications/energia-msp430/IRremote
+hardware/msp430/libraries/IRremote/IRremote.h libraries/Communications/energia-msp430/IRremote
+hardware/msp430/libraries/IRremote/IRremoteInt.h libraries/Communications/energia-msp430/IRremote
+hardware/msp430/libraries/IRremote/LICENSE.txt libraries/Communications/energia-msp430/IRremote
+hardware/msp430/libraries/IRremote/examples/ libraries/Communications/energia-msp430/IRremote
+hardware/msp430/libraries/IRremote/keywords.txt libraries/Communications/energia-msp430/IRremote

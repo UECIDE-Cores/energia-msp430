@@ -1,0 +1,4 @@
+hardware/msp430/libraries/DriverLib/driverlib.h libraries/Misc/driverlib
+hardware/msp430/libraries/DriverLib/examples/ libraries/Misc/driverlib
+hardware/msp430/libraries/DriverLib/keywords.txt libraries/Misc/driverlib
+hardware/msp430/libraries/DriverLib/utility/ libraries/Misc/driverlib

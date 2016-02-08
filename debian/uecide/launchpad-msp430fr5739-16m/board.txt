@@ -1,0 +1,13 @@
+name=launchpad-msp430fr5739-16m
+core=energia-msp430
+family=msp430
+group=Launchpad
+
+description=FraunchPad with msp430fr5739
+upload.protocol=rf2500
+upload.maximum_size=15872
+build.mcu=msp430fr5739
+build.f_cpu=16000000L
+build.core=msp430
+build.variant=fraunchpad
+upload.maximum_ram_size=17408

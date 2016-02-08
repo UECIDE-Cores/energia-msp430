@@ -1,0 +1,4 @@
+hardware/msp430/libraries/LiquidCrystal/LiquidCrystal.cpp libraries/Display/energia-msp430/LiquidCrystal
+hardware/msp430/libraries/LiquidCrystal/LiquidCrystal.h libraries/Display/energia-msp430/LiquidCrystal
+hardware/msp430/libraries/LiquidCrystal/examples/ libraries/Display/energia-msp430/LiquidCrystal
+hardware/msp430/libraries/LiquidCrystal/keywords.txt libraries/Display/energia-msp430/LiquidCrystal

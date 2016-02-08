@@ -1,0 +1,5 @@
+hardware/msp430/libraries/SPI/SPI.cpp libraries/Communications/energia-msp430/SPI
+hardware/msp430/libraries/SPI/SPI.h libraries/Communications/energia-msp430/SPI
+hardware/msp430/libraries/SPI/examples/ libraries/Communications/energia-msp430/SPI
+hardware/msp430/libraries/SPI/keywords.txt libraries/Communications/energia-msp430/SPI
+hardware/msp430/libraries/SPI/utility/ libraries/Communications/energia-msp430/SPI

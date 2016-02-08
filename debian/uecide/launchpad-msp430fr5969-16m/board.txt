@@ -1,0 +1,13 @@
+name=launchpad-msp430fr5969-16m
+core=energia-msp430
+family=msp430
+group=Launchpad
+
+description=LaunchPad with msp430fr5969 (V2.0 and higher only!)
+upload.protocol=tilib
+upload.maximum_size=65536
+build.mcu=msp430fr5969
+build.f_cpu=16000000L
+build.core=msp430
+build.variant=launchpad_fr5969
+upload.maximum_ram_size=2048
