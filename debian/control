@@ -314,6 +314,7 @@ Package: libmspflash-energia-msp430
 Section: libraries
 Architecture: all
 XBSC-Group: Storage
+XBSC-Subgroup: Flash
 Depends: energia-msp430
 Provides: MspFlash.h
 Description: MspFlash library for energia-msp430
