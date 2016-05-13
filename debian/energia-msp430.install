@@ -1,3 +1,4 @@
 debian/uecide/core.txt cores/energia-msp430
+debian/uecide/tools cores/energia-msp430
 examples/ cores/energia-msp430
 hardware/msp430/cores/msp430 cores/energia-msp430
