@@ -4,7 +4,7 @@ family=msp430
 group=Launchpad
 
 description=LaunchPad with msp430g2553 (16MHz)
-upload.protocol=rf2500
+upload.protocol=tilib
 upload.maximum_size=16384
 build.mcu=msp430g2553
 build.f_cpu=16000000L
